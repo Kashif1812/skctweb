@@ -1,0 +1,297 @@
+.Campuslyf{
+    position: absolute;
+    background-color: #D8ECF8;
+    background-repeat: no-repeat;
+    width: 1349.4px;
+    height: 520px;
+}
+.Topic3{
+    background-attachment: fixed;
+    position: absolute;
+    color: #413A8E;
+    margin-top: 1.5%;
+    margin-left: 5%;
+    font-size: 2.5rem;
+}
+.Subtopic{
+    position: absolute;
+    color: #6A63C3;
+    margin-top: 5%;
+    margin-left: 15.5%;
+    font-size: 2.2rem;
+}
+.Box1{
+    background-color: white;
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 4%;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+.Box1name{
+    position: absolute;
+    color: #413A8E;
+    margin-top: 11%;
+    margin-left: 4%;
+}
+
+.image-box {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 210px;
+    margin-top: 3%;
+}
+.image-box img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+.image-box:hover img {
+    transform: scale(1.1);
+}
+.Box1text{
+    position: absolute;
+    font-style: normal;
+    font-size: 0.9rem;
+    margin-top: -9.3%;
+    margin-left: 2.7%;
+    z-index: -10%;
+}
+.Box2{
+    position: absolute;
+    background-color: white;
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 4%;
+    margin-top: -22.4%;
+    margin-left: 21.5%;
+}
+.Box2name{
+    position: absolute;
+    color: #413A8E;
+    margin-top: 64%;
+    margin-left: 17%;
+    z-index: 10;
+}
+
+.image-box2 {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 210px;
+    height: 140px;
+    margin-top: 3%;
+}
+.image-box2 img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+.image-box2:hover img {
+    transform: scale(1.1);
+}
+
+.Box2text{
+    position: absolute;
+    font-style: normal;
+    font-size: 0.9rem;
+    margin-top: -9.3%;
+    margin-left: 22%;
+    z-index: -10%;
+}
+.Box3{
+    position: absolute;
+    background-color: white;
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 4%;
+    margin-top: -22.5%;
+    margin-left: 41%;
+}
+.Box3name{
+    position: absolute;
+    color: #413A8E;
+    margin-top: 64%;
+    margin-left: 35%;
+    z-index: 10;
+}
+
+.image-box {
+
+    margin: auto;
+    overflow: hidden;
+    width: 210px;
+    margin-top: 3%;
+}
+.image-box image {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+.image-box:hover img3 {
+    transform: scale(1.1);
+}
+.Box3text{
+    position: absolute;
+    font-style: normal;
+    font-size: 0.9rem;
+    margin-top: -9.3%;
+    margin-left: 41.7%;
+    z-index: -10%;
+}
+.Box4{
+    position: absolute;
+    background-color: white;
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 4%;
+    margin-top: -22.5%;
+    margin-left: 61.2%;
+}
+.Box4name{
+    position: absolute;
+    color: #413A8E;
+    margin-top: 64%;
+    margin-left: 17%;
+    z-index: 10;
+}
+
+.image-box4 {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 210px;
+    height: 140px;
+    margin-top: 3%;
+}
+.image-box4 img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+.image-box4:hover img {
+    transform: scale(1.1);
+}
+
+.Box4text{
+    position: absolute;
+    font-style: normal;
+    font-size: 0.9rem;
+    margin-top: -9.3%;
+    margin-left: 62.3%;
+    z-index: -10%;
+}
+.Box5{
+    position: absolute;
+    background-color: white;
+    width: 230px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 4%;
+    margin-top: -22.5%;
+    margin-left: 81%;
+}
+.Box5name{
+    position: absolute;
+    color: #413A8E;
+    margin-top: 64%;
+    margin-left: 33%;
+    z-index: 10;
+}
+
+.image-box5 {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 210px;
+    height: 140px;
+    margin-top: 3%;
+}
+.image-box5 img {
+    max-width: 100%;
+    transition: all 0.3s;
+    display: block;
+    width: 100%;
+    height: auto;
+    transform: scale(1);
+}
+
+.image-box5:hover img {
+    transform: scale(1.1);
+}
+
+.Box5text{
+    position: absolute;
+    font-style: normal;
+    font-size: 0.9rem;
+    margin-top: -9.3%;
+    margin-left: 64.7%;
+    z-index: -10%;
+}
+.Box6{
+    position: absolute;
+    background-color: #413A8E;
+    width: 230px;
+    height: 35px;
+    margin-top: 2%;
+    margin-left: 81.4%;
+    border-radius: 35px;
+}
+.Box6name{
+    position: absolute;
+    color: white;
+    margin-top: 2%;
+    margin-left: 82.5%;
+    z-index: 10;
+}
+.News{
+    position: absolute;
+    background-color: #e5f2f8;
+    background-repeat: no-repeat;
+    width: 674.7px;
+    height: 640px;
+    margin-top: 6.19%;
+}
+.Table4name{
+    position: absolute;
+    margin-left: 35%;
+}
+.Events{
+    position: absolute;
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    width: 674.7px;
+    height: 120px;  
+    margin-top: 6.19%;
+    margin-left: 50%;
+}
+.Table5name{
+    position: absolute;
+    margin-left: 34%;
+}
